@@ -7,7 +7,7 @@ This demo provides an easy way to test out uPort authorization credentials as we
 ## Setup (one-time)
 
 ### Linux/Debian/Ubuntu
-Ensure you have an updated version of nodejs and npm installed. Ubuntu repos often contain an old version, so it's recommend to use a more [up-to-date repo](https://launchpad.net/~chris-lea/+archive/node.js/).
+Ensure you have an updated version of nodejs and npm installed. Ubuntu repos often contain an old version, so it's recommended to use a more [up-to-date repo](https://launchpad.net/~chris-lea/+archive/node.js/).
 
 If you already had nodejs installed and need it updated, make sure to `sudo apt-get update && sudo apt-get upgrade`. Otherwise a `sudo apt-get install nodejs npm` should be sufficient.
 
