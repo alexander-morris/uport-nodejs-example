@@ -11,10 +11,6 @@ Ensure you have an updated version of nodejs and npm installed. Ubuntu repos oft
 
 If you already had nodejs installed and need it updated, make sure to `sudo apt-get update && sudo apt-get upgrade`. Otherwise a `sudo apt-get install nodejs npm` should be sufficient.
 
-*On Ubuntu / Debian engines, there are minor issues with more recent versions of Gulp. To be safe, use package-old.json on these OS.*
-
-`sudo mv package-old.json package.json`
-
 ### Mac
 `brew install node`
 
@@ -26,7 +22,7 @@ Install node from [http://nodejs.org/download/](http://nodejs.org/download/) and
 Assuming nodejs/npm is correctly installed, the next step is to install gulp with and then all the project dependencies, along with yarn.
 
 ```
-sudo npm -g install gulp yarn
+sudo npm -g install yarn
 ```
 
 Finally, install all dependencies with yarn:
