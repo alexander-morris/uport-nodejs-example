@@ -1,8 +1,8 @@
 const uportConnect = require('uport-connect');
 const qrcode = require('qrcode-terminal');
 
-const mnidAddress = '2ov9okPtsptECoKmyu7gt3UR79izc7YbSym';
-const signingKey = '483064dca3d6bbc2a187db48fbf8e20069a3ffaafecafab9f233d0f49f0849b7';
+const mnidAddress = '2ojEtUXBK2J75eCBazz4tncEWE18oFWrnfJ';
+const signingKey = 'cb89a98b53eec9dc58213e67d04338350e7c15a7f7643468d8081ad2c5ce5480';
 
 const appName = 'The Blockchain Institute';
 

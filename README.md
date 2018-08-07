@@ -19,7 +19,7 @@ Install node from [http://nodejs.org/download/](http://nodejs.org/download/) and
 
 ## Installation
 
-Assuming nodejs/npm is correctly installed, the next step is to install gulp with and then all the project dependencies, along with yarn.
+Assuming nodejs/npm is correctly installed, the next step is to install all the project dependencies, along with yarn.
 
 ```
 sudo npm -g install yarn
